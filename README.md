@@ -16,8 +16,7 @@ Python can be easily installed. Visit the official site of Python https://www.py
 
 ## Usage/Examples
 
-```python
-print("Hello, World!")```
+
 
 
 
