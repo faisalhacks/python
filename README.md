@@ -51,8 +51,6 @@ Object-Oriented Programming (OOP) is a programming paradigm based on the concept
 
 ## Flow Diagram
 
-```mermaid
-graph TD
     A[OOP Concepts] --> B[Class]
     B --> C[Attributes]
     B --> D[Methods]
@@ -74,6 +72,7 @@ graph TD
     S --> T[Abstract Classes]
     S --> U[Abstract Methods]
     A --> V[Duck Typing]
+
 
 
 ## Explanation of OOP Concepts
